@@ -1,0 +1,88 @@
+{
+  "cards": {
+    "Forest": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 276
+    },
+    "Mountain": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 272
+    },
+    "Swamp": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 268
+    },
+    "Island": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 264
+    },
+    "Plains": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 260
+    },
+    "Zagoth Triome": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 259
+    },
+    "Savai Triome": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 253
+    },
+    "Raugrin Triome": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 251
+    },
+    "Evolving Wilds": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 247
+    },
+    "Bloodfell Caves": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 243
+    },
+    "Zagoth Crystal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 242
+    },
+    "Springjaw Trap": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 241
+    },
+    "Sleeper Dart": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 240
+    },
+    "Ketria Crystal": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 236
+    }
+  }
+}

@@ -6,5 +6,5 @@ export enum CardStatus {
 export interface CardEntry {
   name: string;
   cardStatus: CardStatus;
-  playersMissing?: string[];
+  missingPlayers?: string[];
 }
