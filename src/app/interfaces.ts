@@ -8,3 +8,8 @@ export interface CardEntry {
   cardStatus: CardStatus;
   missingPlayers?: string[];
 }
+
+export interface CardProvider {
+  name: string;
+  cards: any;
+}

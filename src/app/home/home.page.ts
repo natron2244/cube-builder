@@ -1,5 +1,5 @@
 import { Component } from "@angular/core";
-import { CardEntry } from "../interfaces";
+import { CardEntry, CardStatus } from "../interfaces";
 import { CardService } from "../card.service";
 
 @Component({
@@ -8,9 +8,22 @@ import { CardService } from "../card.service";
   styleUrls: ["home.page.scss"],
 })
 export class HomePage {
-  cardMap: CardEntry[];
-  constructor(cardService: CardService) {
-    this.cardMap = cardService.getAvailableCards();
-    console.log(`Avaiable Cards: ${JSON.stringify(this.cardMap)}`);
+  availableCards: CardEntry[] = [];
+  craftableCards: CardEntry[] = [];
+
+  // cardName: string;
+  // card: CardEntry;
+  constructor(private cardService: CardService) {
+    this.availableCards = this.cardService.getCardsWithStatus(
+      CardStatus.Available
+    );
+    this.craftableCards = this.cardService.getCardsWithStatus(
+      CardStatus.Craftable
+    );
+
+    // this.card = this.availableCards?.[0];
+    // this.cardName = this?.card?.name;
+
+    console.log(`Available Cards: ${JSON.stringify(this.availableCards)}`);
   }
 }

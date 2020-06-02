@@ -1,43 +1,16 @@
 import { Injectable } from "@angular/core";
 import { CardEntry, CardStatus } from "./interfaces";
-import * as NathansCards from "./player-data/nathan.json";
-import * as OtherPlayer from "./player-data/example-player.json";
-import * as Dustin from "./player-data/dustin.json";
-
-interface CardProvider {
-  name: string;
-  cards: any;
-}
+import { CardProviderService } from "./card-provider.service";
 
 @Injectable({
   providedIn: "root",
 })
 export class CardService {
+  public constructor(private cardProvider: CardProviderService) {}
   public getCardEntries(): CardEntry[] {
-    const nathansCards = NathansCards.cards;
-    const otherPlayerCards = OtherPlayer.cards;
-    const dustinsCards = Dustin.cards;
-
-    const merged = { ...nathansCards, ...otherPlayerCards, ...dustinsCards };
-    const allCardList = Object.getOwnPropertyNames(merged);
-    console.log(`sharedCardList: ${JSON.stringify(allCardList)}`);
-    // Nathan: Now check each list
-
-    const cardProviders: CardProvider[] = [
-      {
-        name: "Nathan",
-        cards: nathansCards,
-      },
-      {
-        name: "Other",
-        cards: otherPlayerCards,
-      },
-      {
-        name: "Dustin",
-        cards: dustinsCards,
-      },
-    ];
-    const cardEntries: CardEntry[] = allCardList.map((cardName) => {
+    const allUniqueCards = this.cardProvider.getAllUniqueCards();
+    const cardProviders = this.cardProvider.getCardProviders();
+    const cardEntries: CardEntry[] = allUniqueCards.map((cardName) => {
       let count = 0;
       const missingPlayers: string[] = [];
       cardProviders.forEach(({ name, cards }) => {
@@ -56,10 +29,8 @@ export class CardService {
     return cardEntries;
   }
 
-  public getAvailableCards(): CardEntry[] {
-    return this.getCardEntries().filter(
-      (card) => card.cardStatus !== CardStatus.Unavailable
-    );
+  public getCardsWithStatus(status: CardStatus): CardEntry[] {
+    return this.getCardEntries().filter((card) => card.cardStatus === status);
   }
 
   private getCardStatus(count, numberOfPlayers): CardStatus {
