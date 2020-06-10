@@ -1,0 +1,8512 @@
+{
+  "cards": {
+    "Forest": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 276
+    },
+    "Mountain": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 272
+    },
+    "Swamp": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 268
+    },
+    "Island": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 264
+    },
+    "Plains": {
+      "count": 1,
+      "type": "land",
+      "set": "Ixalan",
+      "number": 260
+    },
+    "Zagoth Triome": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 259
+    },
+    "Savai Triome": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 253
+    },
+    "Indatha Triome": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 248
+    },
+    "Evolving Wilds": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 186
+    },
+    "Dismal Backwater": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 246
+    },
+    "Blossoming Sands": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 244
+    },
+    "Bloodfell Caves": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 243
+    },
+    "Zagoth Crystal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 242
+    },
+    "Springjaw Trap": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 241
+    },
+    "Sleeper Dart": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 240
+    },
+    "Savai Crystal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 239
+    },
+    "Raugrin Crystal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 238
+    },
+    "The Ozolith": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 237
+    },
+    "Ketria Crystal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 236
+    },
+    "Indatha Crystal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 235
+    },
+    "Yorion, Sky Nomad": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 232
+    },
+    "Umori, the Collector": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 231
+    },
+    "Sonorous Howlbonder": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 230
+    },
+    "Obosh, the Preypiercer": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 228
+    },
+    "Lutri, the Spellchaser": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 227
+    },
+    "Lurrus of the Dream Den": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 226
+    },
+    "Keruga, the Macrosage": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 225
+    },
+    "Kaheera, the Orphanguard": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 224
+    },
+    "Jubilant Skybonder": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 223
+    },
+    "Jegantha, the Wellspring": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 222
+    },
+    "Gyruda, Doom of Depths": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 221
+    },
+    "Cunning Nightbonder": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 219
+    },
+    "Alert Heedbonder": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 218
+    },
+    "Zenith Flare": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 217
+    },
+    "Winota, Joiner of Forces": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 216
+    },
+    "Whirlwind of Thought": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 215
+    },
+    "Trumpeting Gnarr": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 213
+    },
+    "Titans' Nest": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 212
+    },
+    "Slitherwisp": {
+      "count": 4,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 208
+    },
+    "Skycat Sovereign": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 207
+    },
+    "Skull Prophet": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 206
+    },
+    "Rielle, the Everwise": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 203
+    },
+    "Primal Empathy": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 200
+    },
+    "Parcelbeast": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 199
+    },
+    "Offspring's Revenge": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 198
+    },
+    "Labyrinth Raptor": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 193
+    },
+    "Kinnan, Bonder Prodigy": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 192
+    },
+    "Genesis Ultimatum": {
+      "count": 3,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 189
+    },
+    "General's Enforcer": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 188
+    },
+    "Emergent Ultimatum": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 185
+    },
+    "Dire Tactics": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 183
+    },
+    "Chevill, Bane of Monsters": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 181
+    },
+    "Channeled Force": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 180
+    },
+    "Boneyard Lurker": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 178
+    },
+    "Back for More": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 177
+    },
+    "Wilt": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 176
+    },
+    "Vivien, Monsters' Advocate": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 175
+    },
+    "Titanoth Rex": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 174
+    },
+    "Thwart the Enemy": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 173
+    },
+    "Survivors' Bond": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 172
+    },
+    "Sudden Spinnerets": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 171
+    },
+    "Ram Through": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 170
+    },
+    "Plummet": {
+      "count": 3,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 143
+    },
+    "Mosscoat Goriak": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 167
+    },
+    "Monstrous Step": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 166
+    },
+    "Migratory Greathorn": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 165
+    },
+    "Migration Path": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 164
+    },
+    "Lead the Stampede": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 163
+    },
+    "Humble Naturalist": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 160
+    },
+    "Hornbash Mentor": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 159
+    },
+    "Honey Mammoth": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 158
+    },
+    "Greater Sandwurm": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 157
+    },
+    "Glowstone Recluse": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 156
+    },
+    "Gemrazer": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 155
+    },
+    "Fully Grown": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 154
+    },
+    "Flycatcher Giraffid": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 153
+    },
+    "Fertilid": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 152
+    },
+    "Excavation Mole": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 150
+    },
+    "Essence Symbiote": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 149
+    },
+    "Colossification": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 148
+    },
+    "Charge of the Forever-Beast": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 147
+    },
+    "Bristling Boar": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 170
+    },
+    "Barrier Breach": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 145
+    },
+    "Almighty Brushwagg": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 143
+    },
+    "Adventurous Impulse": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 153
+    },
+    "Unpredictable Cyclone": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 139
+    },
+    "Tentative Connection": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 138
+    },
+    "Spelleater Wolverine": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 137
+    },
+    "Shredded Sails": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 136
+    },
+    "Sanctuary Smasher": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 135
+    },
+    "Rumbling Rockslide": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 134
+    },
+    "Rooting Moloch": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 133
+    },
+    "Reptilian Reflection": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 132
+    },
+    "Raking Claws": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 131
+    },
+    "Pyroceratops": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 130
+    },
+    "Prickly Marmoset": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 129
+    },
+    "Lava Serpent": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 124
+    },
+    "Heightened Reflexes": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 123
+    },
+    "Go for Blood": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 122
+    },
+    "Frillscare Mentor": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 121
+    },
+    "Frenzied Raptor": {
+      "count": 2,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 146
+    },
+    "Forbidden Friendship": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 119
+    },
+    "Footfall Crater": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 118
+    },
+    "Flame Spill": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 117
+    },
+    "Fire Prophecy": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 116
+    },
+    "Ferocious Tigorilla": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 115
+    },
+    "Drannith Stinger": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 113
+    },
+    "Cloudpiercer": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 112
+    },
+    "Clash of Titans": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 111
+    },
+    "Cathartic Reunion": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 110
+    },
+    "Blitz of the Thunder-Raptor": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 109
+    },
+    "Blazing Volley": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 107
+    },
+    "Zagoth Mamba": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 106
+    },
+    "Whisper Squad": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 105
+    },
+    "Void Beckoner": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 104
+    },
+    "Unlikely Aid": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 109
+    },
+    "Unexpected Fangs": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 102
+    },
+    "Suffocating Fumes": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 100
+    },
+    "Serrated Scorpion": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 99
+    },
+    "Nightsquad Commando": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 98
+    },
+    "Mutual Destruction": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 96
+    },
+    "Memory Leak": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 95
+    },
+    "Lurking Deadeye": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 94
+    },
+    "Insatiable Hemophage": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 93
+    },
+    "Hunted Nightmare": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 92
+    },
+    "Heartless Act": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 91
+    },
+    "Gloom Pangolin": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 89
+    },
+    "Easy Prey": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 87
+    },
+    "Duskfang Mentor": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 86
+    },
+    "Durable Coilbug": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 85
+    },
+    "Dirge Bat": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 84
+    },
+    "Dead Weight": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 83
+    },
+    "Dark Bargain": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 82
+    },
+    "Corpse Churn": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 81
+    },
+    "Cavern Whisperer": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 79
+    },
+    "Boot Nipper": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 76
+    },
+    "Blood Curdle": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 75
+    },
+    "Blitz Leech": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 74
+    },
+    "Bastion of Remembrance": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 73
+    },
+    "Wingspan Mentor": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 72
+    },
+    "Wingfold Pteron": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 71
+    },
+    "Voracious Greatshark": {
+      "count": 3,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 70
+    },
+    "Thieving Otter": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 69
+    },
+    "Startling Development": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 68
+    },
+    "Shark Typhoon": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 67
+    },
+    "Sea-Dasher Octopus": {
+      "count": 4,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 66
+    },
+    "Reconnaissance Mission": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 65
+    },
+    "Pollywog Symbiote": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 63
+    },
+    "Phase Dolphin": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 62
+    },
+    "Ominous Seas": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 61
+    },
+    "Neutralize": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 59
+    },
+    "Mythos of Illuna": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 58
+    },
+    "Mystic Subdual": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 57
+    },
+    "Keep Safe": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 56
+    },
+    "Hampering Snare": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 55
+    },
+    "Gust of Wind": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 54
+    },
+    "Frostveil Ambush": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 52
+    },
+    "Frost Lynx": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 62
+    },
+    "Facet Reader": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 50
+    },
+    "Essence Scatter": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 54
+    },
+    "Dreamtail Heron": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 47
+    },
+    "Capture Sphere": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 44
+    },
+    "Boon of the Wish-Giver": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 43
+    },
+    "Avian Oddity": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 42
+    },
+    "Anticipate": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 40
+    },
+    "Will of the All-Hunter": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 38
+    },
+    "Vulpikeet": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 37
+    },
+    "Spontaneous Flight": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 33
+    },
+    "Splendor Mare": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 32
+    },
+    "Solid Footing": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 31
+    },
+    "Savai Sabertooth": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 29
+    },
+    "Sanctuary Lockdown": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 28
+    },
+    "Perimeter Sergeant": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 27
+    },
+    "Patagia Tiger": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 26
+    },
+    "Pacifism": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 32
+    },
+    "Majestic Auricorn": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 22
+    },
+    "Light of Hope": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 20
+    },
+    "Keensight Mentor": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 18
+    },
+    "Imposing Vantasaur": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 17
+    },
+    "Huntmaster Liger": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 16
+    },
+    "Helica Glider": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 15
+    },
+    "Garrison Cat": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 14
+    },
+    "Flourishing Fox": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 13
+    },
+    "Fight as One": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 12
+    },
+    "Drannith Healer": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 10
+    },
+    "Divine Arrow": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 10
+    },
+    "Daysquad Marshal": {
+      "count": 3,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 8
+    },
+    "Coordinated Charge": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 6
+    },
+    "Checkpoint Officer": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 5
+    },
+    "Blade Banish": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 4
+    },
+    "Mysterious Egg": {
+      "count": 4,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 3
+    },
+    "Farfinder": {
+      "count": 1,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 2
+    },
+    "Adaptive Shimmerer": {
+      "count": 2,
+      "type": "common",
+      "set": "Ikoria: Lair of Behemoths",
+      "number": 1
+    },
+    "Temple of Malice": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 247
+    },
+    "Temple of Enlightenment": {
+      "count": 2,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 246
+    },
+    "Wings of Hubris": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 241
+    },
+    "Traveler's Amulet": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 240
+    },
+    "Thundering Chariot": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 239
+    },
+    "Thaumaturge's Familiar": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 238
+    },
+    "Soul-Guide Lantern": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 237
+    },
+    "Nyx Lotus": {
+      "count": 2,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 235
+    },
+    "Entrancing Lyre": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 233
+    },
+    "Bronze Sword": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 232
+    },
+    "Altar of the Pantheon": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 231
+    },
+    "Warden of the Chained": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 230
+    },
+    "Uro, Titan of Nature's Wrath": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Theros: Beyond Death",
+      "number": 229
+    },
+    "Staggering Insight": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 228
+    },
+    "Siona, Captain of the Pyleas": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 226
+    },
+    "Rise to Glory": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 225
+    },
+    "Polukranos, Unchained": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Theros: Beyond Death",
+      "number": 224
+    },
+    "Mischievous Chimera": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 223
+    },
+    "Hero of the Nyxborn": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 219
+    },
+    "Gallia of the Endless Dance": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 217
+    },
+    "Dream Trawler": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 214
+    },
+    "Devourer of Memory": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 213
+    },
+    "Dalakos, Crafter of Wonders": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 212
+    },
+    "Bronzehide Lion": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 210
+    },
+    "Atris, Oracle of Half-Truths": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 209
+    },
+    "Allure of the Unknown": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 207
+    },
+    "Acolyte of Affliction": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 206
+    },
+    "Warbriar Blessing": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 204
+    },
+    "Voracious Typhon": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 203
+    },
+    "Skola Grovedancer": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 202
+    },
+    "Setessan Training": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 201
+    },
+    "Setessan Skirmisher": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 200
+    },
+    "Setessan Champion": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 198
+    },
+    "Return to Nature": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 175
+    },
+    "Renata, Called to the Hunt": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 196
+    },
+    "Relentless Pursuit": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 195
+    },
+    "Pheres-Band Brawler": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 193
+    },
+    "Omen of the Hunt": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 192
+    },
+    "Nyxborn Colossus": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 191
+    },
+    "Nyx Herald": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 189
+    },
+    "Nylea's Huntmaster": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 187
+    },
+    "Nylea's Forerunner": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 186
+    },
+    "Nexus Wardens": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 184
+    },
+    "Nessian Hornbeetle": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 182
+    },
+    "Nessian Boar": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 181
+    },
+    "Mystic Repeal": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 180
+    },
+    "Moss Viper": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 179
+    },
+    "Loathsome Chimera": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 177
+    },
+    "Hyrax Tower Scout": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 173
+    },
+    "Hydra's Growth": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 172
+    },
+    "Gift of Strength": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 127
+    },
+    "The First Iroan Games": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 170
+    },
+    "Dryad of the Ilysian Grove": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 169
+    },
+    "Destiny Spinner": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 168
+    },
+    "Chainweb Aracnir": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 167
+    },
+    "The Binding of the Titans": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 166
+    },
+    "Arasta of the Endless Web": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 165
+    },
+    "Wrap in Flames": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 164
+    },
+    "Underworld Rage-Hound": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 163
+    },
+    "Underworld Fires": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 162
+    },
+    "Thrill of Possibility": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 159
+    },
+    "Stampede Rider": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 155
+    },
+    "Skophos Warleader": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 154
+    },
+    "Skophos Maze-Warden": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 153
+    },
+    "Satyr's Cunning": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 152
+    },
+    "Phoenix of Ash": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 148
+    },
+    "Oread of Mountain's Blaze": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 146
+    },
+    "Omen of the Forge": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 145
+    },
+    "Nyxborn Brute": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 144
+    },
+    "Irreverent Revelers": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 143
+    },
+    "Iroas's Blessing": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 142
+    },
+    "Infuriate": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 145
+    },
+    "Incendiary Oracle": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 140
+    },
+    "Heroes of the Revel": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 138
+    },
+    "Hero of the Games": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 137
+    },
+    "Furious Rise": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 136
+    },
+    "Flummoxed Cyclops": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 135
+    },
+    "Final Flare": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 134
+    },
+    "Escape Velocity": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 132
+    },
+    "Dreamstalker Manticore": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 131
+    },
+    "Dreamshaper Shaman": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 130
+    },
+    "Careless Celebrant": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 129
+    },
+    "Blood Aspirant": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 128
+    },
+    "Aspect of Manticore": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 127
+    },
+    "Arena Trickster": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 126
+    },
+    "Anax, Hardened in the Forge": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 125
+    },
+    "Woe Strider": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 123
+    },
+    "Venomous Hierophant": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 122
+    },
+    "Underworld Dreams": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 121
+    },
+    "Underworld Charger": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 120
+    },
+    "Tymaret Calls the Dead": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 118
+    },
+    "Treacherous Blessing": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 117
+    },
+    "Temple Thief": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 116
+    },
+    "Soulreaper of Mogis": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 115
+    },
+    "Scavenging Harpy": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 114
+    },
+    "Rage-Scarred Berserker": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 113
+    },
+    "Pharika's Spawn": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 112
+    },
+    "Pharika's Libation": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 111
+    },
+    "Omen of the Dead": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 110
+    },
+    "Nyxborn Marauder": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 109
+    },
+    "Nightmare Shepherd": {
+      "count": 3,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 108
+    },
+    "Mogis's Favor": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 107
+    },
+    "Mire's Grasp": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 106
+    },
+    "Minion's Return": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 104
+    },
+    "Hateful Eidolon": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 101
+    },
+    "Grim Physician": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 100
+    },
+    "Gray Merchant of Asphodel": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 99
+    },
+    "Gravebreaker Lamia": {
+      "count": 2,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 98
+    },
+    "Funeral Rites": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 97
+    },
+    "Fruit of Tizerus": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 96
+    },
+    "Final Death": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 95
+    },
+    "Enemy of Enlightenment": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 92
+    },
+    "Elspeth's Nightmare": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 91
+    },
+    "Discordant Piper": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 88
+    },
+    "Cling to Dust": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 87
+    },
+    "Blight-Breath Catoblepas": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 86
+    },
+    "Aspect of Lamprey": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 85
+    },
+    "Witness of Tomorrows": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 82
+    },
+    "Whirlwind Denial": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 81
+    },
+    "Vexing Gull": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 79
+    },
+    "Triton Waverider": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 78
+    },
+    "Towering-Wave Mystic": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 77
+    },
+    "Thryx, the Sudden Storm": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 76
+    },
+    "Thirst for Meaning": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 74
+    },
+    "Thassa's Oracle": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 73
+    },
+    "Thassa, Deep-Dwelling": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Theros: Beyond Death",
+      "number": 71
+    },
+    "Sweet Oblivion": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 70
+    },
+    "Stinging Lionfish": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 69
+    },
+    "Stern Dismissal": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 68
+    },
+    "Starlit Mantle": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 67
+    },
+    "Sleep of the Dead": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 66
+    },
+    "Shoal Kraken": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 65
+    },
+    "Shimmerwing Chimera": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 64
+    },
+    "Sea God's Scorn": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 63
+    },
+    "Sage of Mysteries": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 62
+    },
+    "Riptide Turtle": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 61
+    },
+    "Protean Thaumaturge": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 60
+    },
+    "One with the Stars": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 59
+    },
+    "Omen of the Sea": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 58
+    },
+    "Nyxborn Seaguard": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 57
+    },
+    "Naiad of Hidden Coves": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 56
+    },
+    "Memory Drain": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 54
+    },
+    "Medomai's Prophecy": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 53
+    },
+    "Ichthyomorphosis": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 51
+    },
+    "Glimpse of Freedom": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 50
+    },
+    "Elite Instructor": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 49
+    },
+    "Eidolon of Philosophy": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 48
+    },
+    "Deny the Divine": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 47
+    },
+    "Chain to Memory": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 46
+    },
+    "Callaphe, Beloved of the Sea": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 45
+    },
+    "Brine Giant": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 44
+    },
+    "Ashiok's Erasure": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 43
+    },
+    "Alirios, Enraptured": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 42
+    },
+    "Triumphant Surge": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 41
+    },
+    "Transcendent Envoy": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 40
+    },
+    "Taranika, Akroan Veteran": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 39
+    },
+    "Sunmane Pegasus": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 38
+    },
+    "Shatter the Sky": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 37
+    },
+    "Sentinel's Eyes": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 36
+    },
+    "Rumbling Sentry": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 35
+    },
+    "Reverent Hoplite": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 33
+    },
+    "Pious Wayfarer": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 32
+    },
+    "Phalanx Tactics": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 31
+    },
+    "Omen of the Sun": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 30
+    },
+    "Nyxborn Courser": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 29
+    },
+    "Leonin of the Lost Pride": {
+      "count": 2,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 28
+    },
+    "Karametra's Blessing": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 26
+    },
+    "Indomitable Will": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 25
+    },
+    "Hero of the Winds": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 23
+    },
+    "Hero of the Pride": {
+      "count": 3,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 22
+    },
+    "Heliod's Punishment": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 21
+    },
+    "Heliod's Pilgrim": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 20
+    },
+    "Glory Bearers": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 17
+    },
+    "Flicker of Fate": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 16
+    },
+    "Elspeth Conquers Death": {
+      "count": 2,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 13
+    },
+    "Eidolon of Obstruction": {
+      "count": 1,
+      "type": "rare",
+      "set": "Theros: Beyond Death",
+      "number": 12
+    },
+    "Dreadful Apathy": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 11
+    },
+    "Daybreak Chimera": {
+      "count": 1,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 10
+    },
+    "Daxos, Blessed by the Sun": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 9
+    },
+    "Dawn Evangel": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 8
+    },
+    "Captivating Unicorn": {
+      "count": 4,
+      "type": "common",
+      "set": "Theros: Beyond Death",
+      "number": 6
+    },
+    "The Birth of Meletis": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 5
+    },
+    "Banishing Light": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 4
+    },
+    "Archon of Falling Stars": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 2
+    },
+    "Alseid of Life's Bounty": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Theros: Beyond Death",
+      "number": 1
+    },
+    "Dwarven Mine": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 243
+    },
+    "Weapon Rack": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 236
+    },
+    "Gingerbrute": {
+      "count": 4,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 219
+    },
+    "Rampart Smasher": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Throne of Eldraine",
+      "number": 213
+    },
+    "Covetous Urge": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Throne of Eldraine",
+      "number": 207
+    },
+    "Wandermare": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Throne of Eldraine",
+      "number": 204
+    },
+    "Dance of the Manse": {
+      "count": 1,
+      "type": "rare",
+      "set": "Throne of Eldraine",
+      "number": 186
+    },
+    "Wicked Wolf": {
+      "count": 1,
+      "type": "rare",
+      "set": "Throne of Eldraine",
+      "number": 181
+    },
+    "Tuinvale Treefolk": {
+      "count": 2,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 180
+    },
+    "Tall as a Beanstalk": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 178
+    },
+    "Insatiable Appetite": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 162
+    },
+    "The Great Henge": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Throne of Eldraine",
+      "number": 161
+    },
+    "Torbran, Thane of Red Fell": {
+      "count": 1,
+      "type": "rare",
+      "set": "Throne of Eldraine",
+      "number": 147
+    },
+    "Seven Dwarves": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 141
+    },
+    "Robber of the Rich": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Throne of Eldraine",
+      "number": 138
+    },
+    "Mad Ratter": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Throne of Eldraine",
+      "number": 130
+    },
+    "Fervent Champion": {
+      "count": 1,
+      "type": "rare",
+      "set": "Throne of Eldraine",
+      "number": 124
+    },
+    "Blow Your House Down": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 114
+    },
+    "Bloodhaze Wolverine": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 113
+    },
+    "Giant's Skewer": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 91
+    },
+    "Stolen by the Fae": {
+      "count": 1,
+      "type": "rare",
+      "set": "Throne of Eldraine",
+      "number": 66
+    },
+    "Mystical Dispute": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Throne of Eldraine",
+      "number": 58
+    },
+    "Mistford River Turtle": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 56
+    },
+    "Emry, Lurker of the Loch": {
+      "count": 1,
+      "type": "rare",
+      "set": "Throne of Eldraine",
+      "number": 43
+    },
+    "Brazen Borrower": {
+      "count": 4,
+      "type": "mythic",
+      "set": "Throne of Eldraine",
+      "number": 39
+    },
+    "True Love's Kiss": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 34
+    },
+    "Silverflame Squire": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 31
+    },
+    "Hushbringer": {
+      "count": 1,
+      "type": "rare",
+      "set": "Throne of Eldraine",
+      "number": 18
+    },
+    "Beloved Princess": {
+      "count": 1,
+      "type": "common",
+      "set": "Throne of Eldraine",
+      "number": 7
+    },
+    "All That Glitters": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Throne of Eldraine",
+      "number": 2
+    },
+    "Prized Unicorn": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 342
+    },
+    "Oakenform": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 191
+    },
+    "Aggressive Mammoth": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 302
+    },
+    "Shivan Dragon": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 335
+    },
+    "Vampire Opportunist": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 110
+    },
+    "Sorin's Thirst": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 104
+    },
+    "Gravewaker": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 293
+    },
+    "Dark Remedy": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 321
+    },
+    "Riddlemaster Sphinx": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 287
+    },
+    "Serra's Guardian": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 284
+    },
+    "Gnarlback Rhino": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 300
+    },
+    "Thirsting Bloodlord": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 293
+    },
+    "Savage Gorger": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 291
+    },
+    "Temple of Triumph": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 257
+    },
+    "Stone Golem": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 240
+    },
+    "Steel Overseer": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 239
+    },
+    "Scuttlemutt": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 238
+    },
+    "Salvager of Ruin": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 237
+    },
+    "Prismite": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 242
+    },
+    "Pattern Matcher": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 234
+    },
+    "Meteor Golem": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 241
+    },
+    "Manifold Key": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 230
+    },
+    "Bag of Holding": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 222
+    },
+    "Anvilwrought Raptor": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 221
+    },
+    "Empyrean Eagle": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 208
+    },
+    "Woodland Champion": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 205
+    },
+    "Wolfkin Bond": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 203
+    },
+    "Wakeroot Elemental": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 202
+    },
+    "Voracious Hydra": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 200
+    },
+    "Silverback Shaman": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 195
+    },
+    "Season of Growth": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 191
+    },
+    "Rabid Bite": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 195
+    },
+    "Overcome": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 186
+    },
+    "Leyline of Abundance": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 179
+    },
+    "Leafkin Druid": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 178
+    },
+    "Growth Cycle": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 175
+    },
+    "Greenwood Sentinel": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 187
+    },
+    "Gargos, Vicious Watcher": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 172
+    },
+    "Feral Invocation": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 170
+    },
+    "Barkhide Troll": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 165
+    },
+    "Tectonic Rift": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 162
+    },
+    "Shock": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 156
+    },
+    "Scorch Spitter": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 159
+    },
+    "Ripscale Predator": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 157
+    },
+    "Repeated Reverberation": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 156
+    },
+    "Reduce to Ashes": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 155
+    },
+    "Reckless Air Strike": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 154
+    },
+    "Rapacious Dragon": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 153
+    },
+    "Pack Mastiff": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 152
+    },
+    "Lavakin Brawler": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 147
+    },
+    "Fry": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 140
+    },
+    "Fire Elemental": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 138
+    },
+    "Ember Hauler": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 137
+    },
+    "Drakuseth, Maw of Flames": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 136
+    },
+    "Destructive Digger": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 134
+    },
+    "Daggersail Aeronaut": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 133
+    },
+    "Chandra's Spitfire": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 132
+    },
+    "Chandra's Regulator": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 131
+    },
+    "Chandra's Outrage": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 130
+    },
+    "Chandra's Embercat": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 129
+    },
+    "Act of Treason": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 127
+    },
+    "Vampire of the Dire Moon": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 120
+    },
+    "Undead Servant": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 118
+    },
+    "Soul Salvage": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 116
+    },
+    "Sanitarium Skeleton": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 112
+    },
+    "Murder": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 110
+    },
+    "Mind Rot": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 108
+    },
+    "Leyline of the Void": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 107
+    },
+    "Knight of the Ebon Legion": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 105
+    },
+    "Gorging Vulture": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 102
+    },
+    "Feral Abomination": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 101
+    },
+    "Fathom Fleet Cutthroat": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 107
+    },
+    "Duress": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 94
+    },
+    "Disfigure": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 95
+    },
+    "Bone Splinters": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 92
+    },
+    "Bloodthirsty Aerialist": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 91
+    },
+    "Bloodsoaked Altar": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 90
+    },
+    "Blood for Bones": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 89
+    },
+    "Blightbeetle": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 87
+    },
+    "Bladebrand": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 64
+    },
+    "Audacious Thief": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 84
+    },
+    "Agonizing Syphon": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 83
+    },
+    "Winged Words": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 80
+    },
+    "Warden of Evos Isle": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 79
+    },
+    "Unsummon": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 78
+    },
+    "Tale's End": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 77
+    },
+    "Spectral Sailor": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 76
+    },
+    "Scholar of the Ages": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 74
+    },
+    "Sage's Row Denizen": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 73
+    },
+    "Negate": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 44
+    },
+    "Moat Piranhas": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 67
+    },
+    "Faerie Miscreant": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 58
+    },
+    "Dungeon Geists": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 57
+    },
+    "Cloudkin Seer": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 54
+    },
+    "Brineborn Cutthroat": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 50
+    },
+    "Befuddle": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 309
+    },
+    "Air Elemental": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 308
+    },
+    "Squad Captain": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 38
+    },
+    "Soulmender": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 37
+    },
+    "Raise the Alarm": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 34
+    },
+    "Moment of Heroism": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 30
+    },
+    "Loxodon Lifechanter": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 27
+    },
+    "Inspiring Captain": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 25
+    },
+    "Inspired Charge": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 15
+    },
+    "Herald of the Sun": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 23
+    },
+    "Gods Willing": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 19
+    },
+    "Glaring Aegis": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 18
+    },
+    "Fencing Ace": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 16
+    },
+    "Dawning Angel": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 11
+    },
+    "Brought Back": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2020",
+      "number": 9
+    },
+    "Angel of Vitality": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2020",
+      "number": 4
+    },
+    "Ajani, Strength of the Pride": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Core Set 2020",
+      "number": 2
+    },
+    "Aerial Assault": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2020",
+      "number": 1
+    },
+    "Living Twister": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 203
+    },
+    "Despark": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 190
+    },
+    "Mobilized District": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 249
+    },
+    "Karn's Bastion": {
+      "count": 2,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 248
+    },
+    "Gateway Plaza": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 247
+    },
+    "Emergence Zone": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 245
+    },
+    "Saheeli's Silverwing": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 243
+    },
+    "Mana Geode": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 241
+    },
+    "Iron Bully": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 240
+    },
+    "God-Pharaoh's Statue": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 238
+    },
+    "Firemind Vessel": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 237
+    },
+    "Samut, Tyrant Smasher": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 235
+    },
+    "Nahiri, Storm of Stone": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 233
+    },
+    "Kiora, Behemoth Beckoner": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 232
+    },
+    "Kaya, Bane of the Dead": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 231
+    },
+    "Huatli, the Sun's Heart": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 230
+    },
+    "Dovin, Hand of Control": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 229
+    },
+    "Ashiok, Dream Render": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 228
+    },
+    "Angrath, Captain of Chaos": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 227
+    },
+    "Tyrant's Scorn": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 225
+    },
+    "Tolsimir, Friend to Wolves": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 224
+    },
+    "Time Wipe": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 223
+    },
+    "Teferi, Time Raveler": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 221
+    },
+    "Tamiyo, Collector of Tales": {
+      "count": 2,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 220
+    },
+    "Ral's Outburst": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 212
+    },
+    "Pledge of Unity": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 210
+    },
+    "Neoform": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 206
+    },
+    "Merfolk Skydiver": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 205
+    },
+    "Mayhem Devil": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 204
+    },
+    "Leyline Prowler": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 202
+    },
+    "Huatli's Raptor": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 200
+    },
+    "Heartwarming Redemption": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 199
+    },
+    "Enter the God-Eternals": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 196
+    },
+    "Elite Guardmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 195
+    },
+    "Dreadhorde Butcher": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 194
+    },
+    "Domri's Ambush": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 192
+    },
+    "Deathsprout": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 189
+    },
+    "Cruel Celebrant": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 188
+    },
+    "Casualties of War": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 187
+    },
+    "Angrath's Rampage": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 185
+    },
+    "Ajani, the Greathearted": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 184
+    },
+    "Wardscale Crocodile": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 183
+    },
+    "Vivien's Grizzly": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 182
+    },
+    "Vivien's Arkbow": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 181
+    },
+    "Thundering Ceratok": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 179
+    },
+    "Storm the Citadel": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 178
+    },
+    "Steady Aim": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 177
+    },
+    "Snarespinner": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 176
+    },
+    "Primordial Wurm": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 174
+    },
+    "Pollenbright Druid": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 173
+    },
+    "Paradise Druid": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 171
+    },
+    "Nissa's Triumph": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 170
+    },
+    "Nissa, Who Shakes the World": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 169
+    },
+    "New Horizons": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 168
+    },
+    "Mowu, Loyal Companion": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 167
+    },
+    "Kronch Wrangler": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 166
+    },
+    "Kraul Stinger": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 165
+    },
+    "Jiang Yanggu, Wildcrafter": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 164
+    },
+    "Giant Growth": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 162
+    },
+    "Forced Landing": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 161
+    },
+    "Finale of Devastation": {
+      "count": 1,
+      "type": "mythic",
+      "set": "War of the Spark",
+      "number": 160
+    },
+    "Evolution Sage": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 159
+    },
+    "Courage in Crisis": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 158
+    },
+    "Centaur Nurturer": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 156
+    },
+    "Bloom Hulk": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 154
+    },
+    "Band Together": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 153
+    },
+    "Awakening of Vitu-Ghazi": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 152
+    },
+    "Arlinn's Wolf": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 151
+    },
+    "Arboreal Grazer": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 149
+    },
+    "Tibalt's Rager": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 147
+    },
+    "Tibalt, Rakish Instigator": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 146
+    },
+    "Spellgorger Weird": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 145
+    },
+    "Sarkhan's Catharsis": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 144
+    },
+    "Samut's Sprint": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 142
+    },
+    "Nahiri's Stoneblades": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 139
+    },
+    "Mizzium Tank": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 138
+    },
+    "Krenko, Tin Street Kingpin": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 137
+    },
+    "Jaya's Greeting": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 136
+    },
+    "Invading Manticore": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 134
+    },
+    "Honor the God-Pharaoh": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 132
+    },
+    "Heartfire": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 131
+    },
+    "Grim Initiate": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 130
+    },
+    "Goblin Assault Team": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 129
+    },
+    "Goblin Assailant": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 128
+    },
+    "Dreadhorde Arcanist": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 125
+    },
+    "Demolish": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 123
+    },
+    "Chandra's Pyrohelix": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 120
+    },
+    "Bond of Passion": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 116
+    },
+    "Blindblast": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 114
+    },
+    "Vraska's Finisher": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 112
+    },
+    "Vizier of the Scorpion": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 111
+    },
+    "Toll of the Invasion": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 108
+    },
+    "Tithebearer Giant": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 107
+    },
+    "Spark Reaper": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 106
+    },
+    "Spark Harvest": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 105
+    },
+    "Shriekdiver": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 103
+    },
+    "Price of Betrayal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 102
+    },
+    "Ob Nixilis's Cruelty": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 101
+    },
+    "Ob Nixilis, the Hate-Twisted": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 100
+    },
+    "Massacre Girl": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 99
+    },
+    "Lazotep Reaver": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 96
+    },
+    "Lazotep Behemoth": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 95
+    },
+    "Kaya's Ghostform": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 94
+    },
+    "Herald of the Dreadhorde": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 93
+    },
+    "Finale of Eternity": {
+      "count": 1,
+      "type": "mythic",
+      "set": "War of the Spark",
+      "number": 91
+    },
+    "Eternal Taskmaster": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 90
+    },
+    "Duskmantle Operative": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 88
+    },
+    "Dreadmalkin": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 87
+    },
+    "Davriel's Shadowfugue": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 84
+    },
+    "Davriel, Rogue Shadowmage": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 83
+    },
+    "Charity Extractor": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 81
+    },
+    "Bond of Revival": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 80
+    },
+    "Bolas's Citadel": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 79
+    },
+    "Bleeding Edge": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 78
+    },
+    "Banehound": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 77
+    },
+    "Aid the Fallen": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 76
+    },
+    "Wall of Runes": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 75
+    },
+    "Totally Lost": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 81
+    },
+    "Thunder Drake": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 73
+    },
+    "Teferi's Time Twist": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 72
+    },
+    "Tamiyo's Epiphany": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 71
+    },
+    "Stealth Mission": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 70
+    },
+    "Spellkeeper Weird": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 69
+    },
+    "Spark Double": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 68
+    },
+    "Sky Theater Strix": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 67
+    },
+    "Rescuer Sphinx": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 65
+    },
+    "Relentless Advance": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 64
+    },
+    "No Escape": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 63
+    },
+    "Narset's Reversal": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 62
+    },
+    "Naga Eternal": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 60
+    },
+    "Lazotep Plating": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 59
+    },
+    "Kiora's Dambreaker": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 58
+    },
+    "Kasmina's Transmutation": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 57
+    },
+    "Kasmina, Enigmatic Mentor": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 56
+    },
+    "Flux Channeler": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 52
+    },
+    "Finale of Revelation": {
+      "count": 1,
+      "type": "mythic",
+      "set": "War of the Spark",
+      "number": 51
+    },
+    "Eternal Skylord": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 49
+    },
+    "Erratic Visionary": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 48
+    },
+    "Crush Dissent": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 47
+    },
+    "Contentious Plan": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 46
+    },
+    "Commence the Endgame": {
+      "count": 3,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 45
+    },
+    "Callous Dismissal": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 44
+    },
+    "Aven Eternal": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 42
+    },
+    "Augur of Bolas": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 41
+    },
+    "Ashiok's Skulker": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 40
+    },
+    "War Screecher": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 39
+    },
+    "Wanderer's Strike": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 38
+    },
+    "Trusted Pegasus": {
+      "count": 2,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 36
+    },
+    "Topple the Statue": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 35
+    },
+    "Tomik, Distinguished Advokist": {
+      "count": 2,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 34
+    },
+    "Teyo's Lightshield": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 33
+    },
+    "Teyo, the Shieldmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 32
+    },
+    "Sunblade Angel": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 31
+    },
+    "Rising Populace": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 29
+    },
+    "Rally of Wings": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 27
+    },
+    "Prison Realm": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 26
+    },
+    "Pouncing Lynx": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 25
+    },
+    "Parhelion II": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 24
+    },
+    "Martyr for the Cause": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 23
+    },
+    "Makeshift Battalion": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 22
+    },
+    "Loxodon Sergeant": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 21
+    },
+    "Law-Rune Enforcer": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 20
+    },
+    "Ironclad Krovod": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 19
+    },
+    "Gideon's Sacrifice": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 14
+    },
+    "Gideon Blackblade": {
+      "count": 1,
+      "type": "mythic",
+      "set": "War of the Spark",
+      "number": 13
+    },
+    "Enforcer Griffin": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 11
+    },
+    "Defiant Strike": {
+      "count": 1,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 9
+    },
+    "Charmed Stray": {
+      "count": 4,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 8
+    },
+    "Bulwark Giant": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 7
+    },
+    "Bond of Discipline": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "War of the Spark",
+      "number": 6
+    },
+    "Battlefield Promotion": {
+      "count": 3,
+      "type": "common",
+      "set": "War of the Spark",
+      "number": 5
+    },
+    "Ajani's Pridemate": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 5
+    },
+    "Ugin, the Ineffable": {
+      "count": 1,
+      "type": "rare",
+      "set": "War of the Spark",
+      "number": 2
+    },
+    "Stomping Ground": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 259
+    },
+    "Simic Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 257
+    },
+    "Rakdos Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 255
+    },
+    "Orzhov Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 252
+    },
+    "Hallowed Fountain": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 251
+    },
+    "Gruul Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 249
+    },
+    "Godless Shrine": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 248
+    },
+    "Breeding Pool": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 246
+    },
+    "Blood Crypt": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 245
+    },
+    "Azorius Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 243
+    },
+    "Sphinx of the Guildpact": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 241
+    },
+    "Simic Locket": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 240
+    },
+    "Scrabbling Claws": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 238
+    },
+    "Rakdos Locket": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 237
+    },
+    "Orzhov Locket": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 236
+    },
+    "Gruul Locket": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 234
+    },
+    "Glass of the Guildpact": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 233
+    },
+    "Gate Colossus": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 232
+    },
+    "Warrant // Warden": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 230
+    },
+    "Thrash // Threat": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 229
+    },
+    "Revival // Revenge": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 228
+    },
+    "Incubation // Incongruity": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 226
+    },
+    "Depose // Deploy": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 225
+    },
+    "Consecrate // Consume": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 224
+    },
+    "Collision // Colossus": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 223
+    },
+    "Carnival // Carnage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 222
+    },
+    "Bedeck // Bedazzle": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 221
+    },
+    "Vizkopa Vampire": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 220
+    },
+    "Senate Griffin": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 219
+    },
+    "Scuttlegator": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 218
+    },
+    "Rubble Slinger": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 217
+    },
+    "Footlight Fiend": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 216
+    },
+    "Zhur-Taa Goblin": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 215
+    },
+    "Zegana, Utopian Speaker": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 214
+    },
+    "Theater of Horrors": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 213
+    },
+    "Teysa Karlov": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 212
+    },
+    "Syndicate Guildmage": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 211
+    },
+    "Sunder Shaman": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 210
+    },
+    "Sphinx's Insight": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 209
+    },
+    "Sphinx of New Prahv": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 208
+    },
+    "Sharktocrab": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 206
+    },
+    "Seraph of the Scales": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 205
+    },
+    "Senate Guildmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 204
+    },
+    "Savage Smash": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 203
+    },
+    "Rubblebelt Runner": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 202
+    },
+    "Rhythm of the Wild": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 201
+    },
+    "Ravager Wurm": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 200
+    },
+    "Rakdos, the Showstopper": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 199
+    },
+    "Rakdos Roustabout": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 198
+    },
+    "Rakdos Firewheeler": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 197
+    },
+    "Rafter Demon": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 196
+    },
+    "Prime Speaker Vannifar": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 195
+    },
+    "Pitiless Pontiff": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 194
+    },
+    "Mortify": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 192
+    },
+    "Macabre Mockery": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 191
+    },
+    "Lawmage's Binding": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 190
+    },
+    "Knight of the Last Breath": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 188
+    },
+    "Kaya's Wrath": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 187
+    },
+    "Judith, the Scourge Diva": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 185
+    },
+    "Hydroid Krasis": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 183
+    },
+    "High Alert": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 182
+    },
+    "Hackrobat": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 181
+    },
+    "Gyre Engineer": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 180
+    },
+    "Gruul Spellbreaker": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 179
+    },
+    "Growth Spiral": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 178
+    },
+    "Grasping Thrull": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 177
+    },
+    "Get the Point": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 176
+    },
+    "Galloping Lizrog": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 175
+    },
+    "Frenzied Arynx": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 173
+    },
+    "Fireblade Artist": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 172
+    },
+    "Final Payment": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 171
+    },
+    "Emergency Powers": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 169
+    },
+    "Dovin's Acuity": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 168
+    },
+    "Domri, Chaos Bringer": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 166
+    },
+    "Deputy of Detention": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 165
+    },
+    "Cult Guildmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 164
+    },
+    "Combine Guildmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 163
+    },
+    "Clan Guildmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 162
+    },
+    "Cindervines": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 161
+    },
+    "Bolrac-Clan Crusher": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 159
+    },
+    "Biomancer's Familiar": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 158
+    },
+    "Bedevil": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 157
+    },
+    "Basilica Bell-Haunt": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 156
+    },
+    "Azorius Skyguard": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 155
+    },
+    "Azorius Knight-Arbiter": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 154
+    },
+    "Applied Biomancy": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 153
+    },
+    "Aeromunculus": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 152
+    },
+    "Wrecking Beast": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 150
+    },
+    "Wilderness Reclamation": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 149
+    },
+    "Trollbred Guardian": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 148
+    },
+    "Titanic Brawl": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 146
+    },
+    "Territorial Boar": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 145
+    },
+    "Sylvan Brushstrider": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 144
+    },
+    "Stony Strength": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 143
+    },
+    "Steeple Creeper": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 142
+    },
+    "Silhana Wayfinder": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 141
+    },
+    "Sauroform Hybrid": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 140
+    },
+    "Saruli Caretaker": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 139
+    },
+    "Sagittars' Volley": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 138
+    },
+    "Root Snare": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 137
+    },
+    "Regenesis": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 136
+    },
+    "Open the Gates": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 133
+    },
+    "Mammoth Spider": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 132
+    },
+    "Incubation Druid": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 131
+    },
+    "Growth-Chamber Guardian": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 128
+    },
+    "End-Raze Forerunners": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 124
+    },
+    "Biogenic Upgrade": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 123
+    },
+    "Biogenic Ooze": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 122
+    },
+    "Axebane Beast": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 121
+    },
+    "Storm Strike": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 119
+    },
+    "Spear Spewer": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 117
+    },
+    "Smelt-Ward Ignus": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 116
+    },
+    "Skewer the Critics": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 115
+    },
+    "Skarrgan Hellkite": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 114
+    },
+    "Scorchmark": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 113
+    },
+    "Rumbling Ruin": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 112
+    },
+    "Rubblebelt Recluse": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 111
+    },
+    "Rubble Reading": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 110
+    },
+    "Rix Maadi Reveler": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 109
+    },
+    "Mirror March": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 108
+    },
+    "Light Up the Stage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 107
+    },
+    "Immolation Shaman": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 106
+    },
+    "Gravel-Hide Goblin": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 105
+    },
+    "Goblin Gathering": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 104
+    },
+    "Ghor-Clan Wrecker": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 103
+    },
+    "Gates Ablaze": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 102
+    },
+    "Flames of the Raze-Boar": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 101
+    },
+    "Feral Maaka": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 100
+    },
+    "Electrodominance": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 99
+    },
+    "Deface": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 98
+    },
+    "Dagger Caster": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 97
+    },
+    "Clamor Shaman": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 96
+    },
+    "Cavalcade of Calamity": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 95
+    },
+    "Burning-Tree Vandal": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 94
+    },
+    "Burn Bright": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 93
+    },
+    "Vindictive Vampire": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 90
+    },
+    "Undercity's Embrace": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 89
+    },
+    "Undercity Scavenger": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 88
+    },
+    "Thirsting Shade": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 87
+    },
+    "Spire Mangler": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 86
+    },
+    "Spawn of Mayhem": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 85
+    },
+    "Rakdos Trumpeter": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 84
+    },
+    "Priest of Forgotten Gods": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 83
+    },
+    "Orzhov Enforcer": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 79
+    },
+    "Noxious Groodion": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 78
+    },
+    "Ill-Gotten Inheritance": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 77
+    },
+    "Gutterbones": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 76
+    },
+    "Grotesque Demise": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 75
+    },
+    "Font of Agonies": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 74
+    },
+    "Debtors' Transport": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 72
+    },
+    "Dead Revels": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 71
+    },
+    "Cry of the Carnarium": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 70
+    },
+    "Consign to the Pit": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 69
+    },
+    "Catacomb Crocodile": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 67
+    },
+    "Carrion Imp": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 66
+    },
+    "Bloodmist Infiltrator": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 65
+    },
+    "Blade Juggler": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 63
+    },
+    "Awaken the Erstwhile": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 61
+    },
+    "Windstorm Drake": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 60
+    },
+    "Wall of Lost Thoughts": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 59
+    },
+    "Verity Circle": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 58
+    },
+    "Sphinx of Foresight": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 55
+    },
+    "Skitter Eel": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 53
+    },
+    "Senate Courier": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 50
+    },
+    "Sage's Row Savant": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 49
+    },
+    "Quench": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 48
+    },
+    "Pteramander": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 47
+    },
+    "Precognitive Perception": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 45
+    },
+    "Persistent Petitioners": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 44
+    },
+    "Mesmerizing Benthid": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 43
+    },
+    "Mass Manipulation": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 42
+    },
+    "Humongulus": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 41
+    },
+    "Gateway Sneak": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 40
+    },
+    "Essence Capture": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 37
+    },
+    "Code of Constraint": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 35
+    },
+    "Clear the Mind": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 34
+    },
+    "Chillbringer": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 33
+    },
+    "Benthic Biomancer": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 32
+    },
+    "Arrester's Admonition": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 31
+    },
+    "Watchful Giant": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 30
+    },
+    "Unbreakable Formation": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ravnica Allegiance",
+      "number": 29
+    },
+    "Twilight Panther": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 28
+    },
+    "Tenth District Veteran": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 26
+    },
+    "Summary Judgment": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 24
+    },
+    "Spirit of the Spires": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 23
+    },
+    "Sky Tether": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 21
+    },
+    "Sentinel's Mark": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 20
+    },
+    "Resolute Watchdog": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 19
+    },
+    "Rally to Battle": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 18
+    },
+    "Prowling Caracal": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 17
+    },
+    "Ministrant of Obligation": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ravnica Allegiance",
+      "number": 16
+    },
+    "Knight of Sorrows": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 14
+    },
+    "Justiciar's Portal": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 13
+    },
+    "Impassioned Orator": {
+      "count": 4,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 12
+    },
+    "Haazda Officer": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 10
+    },
+    "Expose to Daylight": {
+      "count": 3,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 8
+    },
+    "Concordia Pegasus": {
+      "count": 2,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 7
+    },
+    "Civic Stalwart": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 6
+    },
+    "Bring to Trial": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 5
+    },
+    "Arrester's Zeal": {
+      "count": 1,
+      "type": "common",
+      "set": "Ravnica Allegiance",
+      "number": 4
+    },
+    "Angel of Grace": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ravnica Allegiance",
+      "number": 1
+    },
+    "Inspiring Commander": {
+      "count": 2,
+      "type": "rare",
+      "set": "Arena New Player Experience",
+      "number": 5
+    },
+    "Angelic Reward": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Arena New Player Experience",
+      "number": 1
+    },
+    "Serra Angel": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 33
+    },
+    "Confront the Assault": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Arena New Player Experience",
+      "number": 3
+    },
+    "Tactical Advantage": {
+      "count": 3,
+      "type": "common",
+      "set": "Arena New Player Experience",
+      "number": 12
+    },
+    "Spiritual Guardian": {
+      "count": 3,
+      "type": "common",
+      "set": "Arena New Player Experience",
+      "number": 11
+    },
+    "Watery Grave": {
+      "count": 4,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 259
+    },
+    "Temple Garden": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 258
+    },
+    "Steam Vents": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 257
+    },
+    "Selesnya Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 255
+    },
+    "Sacred Foundry": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 254
+    },
+    "Overgrown Tomb": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 253
+    },
+    "Izzet Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 251
+    },
+    "Golgari Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 248
+    },
+    "Dimir Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 245
+    },
+    "Boros Guildgate": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 243
+    },
+    "Wand of Vertebrae": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 242
+    },
+    "Selesnya Locket": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 240
+    },
+    "Izzet Locket": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 238
+    },
+    "Gatekeeper Gargoyle": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 235
+    },
+    "Dimir Locket": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 234
+    },
+    "Chromatic Lantern": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 233
+    },
+    "Status // Statue": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 230
+    },
+    "Response // Resurgence": {
+      "count": 2,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 229
+    },
+    "Invert // Invent": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 228
+    },
+    "Integrity // Intervention": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 227
+    },
+    "Flower // Flourish": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 226
+    },
+    "Find // Finality": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 225
+    },
+    "Expansion // Explosion": {
+      "count": 2,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 224
+    },
+    "Discovery // Dispersal": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 223
+    },
+    "Connive // Concoct": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 222
+    },
+    "Assure // Assemble": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 221
+    },
+    "Whisper Agent": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 220
+    },
+    "Vernadi Shieldmate": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 219
+    },
+    "Pitiless Gorgon": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 218
+    },
+    "Piston-Fist Cyclops": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 217
+    },
+    "Fresh-Faced Recruit": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 216
+    },
+    "Worldsoul Colossus": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 215
+    },
+    "Wee Dragonauts": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 214
+    },
+    "Vraska, Golgari Queen": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 213
+    },
+    "Underrealm Lich": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 211
+    },
+    "Undercity Uprising": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 210
+    },
+    "Truefire Captain": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 209
+    },
+    "Trostani Discordant": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 208
+    },
+    "Thousand-Year Storm": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 207
+    },
+    "Thought Erasure": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 206
+    },
+    "Thief of Sanity": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 205
+    },
+    "Tajic, Legion's Edge": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 204
+    },
+    "Swiftblade Vindicator": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 203
+    },
+    "Swathcutter Giant": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 202
+    },
+    "Swarm Guildmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 201
+    },
+    "Sumala Woodshaper": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 200
+    },
+    "Skyknight Legionnaire": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 198
+    },
+    "Rosemane Centaur": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 197
+    },
+    "Rhizome Lurcher": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 196
+    },
+    "Ochran Assassin": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 194
+    },
+    "Notion Rain": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 193
+    },
+    "Niv-Mizzet, Parun": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 192
+    },
+    "Nightveil Predator": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 191
+    },
+    "Molderhulk": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 190
+    },
+    "March of the Multitudes": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 188
+    },
+    "Legion Guildmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 187
+    },
+    "Ledev Champion": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 186
+    },
+    "League Guildmage": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 185
+    },
+    "Knight of Autumn": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 183
+    },
+    "Justice Strike": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 182
+    },
+    "Join Shields": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 181
+    },
+    "Izoni, Thousand-Eyed": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 180
+    },
+    "Ionize": {
+      "count": 2,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 179
+    },
+    "Hypothesizzle": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 178
+    },
+    "House Guildmage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 177
+    },
+    "Hammer Dropper": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 176
+    },
+    "Golgari Findbroker": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 175
+    },
+    "Goblin Electromancer": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 174
+    },
+    "Glowspore Shaman": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 173
+    },
+    "Firemind's Research": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 171
+    },
+    "Etrata, the Silencer": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 170
+    },
+    "Erstwhile Trooper": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 169
+    },
+    "Emmara, Soul of the Accord": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 168
+    },
+    "Disinformation Campaign": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 167
+    },
+    "Dimir Spybug": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 166
+    },
+    "Deafening Clarion": {
+      "count": 2,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 165
+    },
+    "Darkblade Agent": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 164
+    },
+    "Crackling Drake": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 163
+    },
+    "Conclave Guildmage": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 162
+    },
+    "Conclave Cavalier": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 161
+    },
+    "Chance for Glory": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 159
+    },
+    "Centaur Peacemaker": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 158
+    },
+    "Boros Challenger": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 156
+    },
+    "Beacon Bolt": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 154
+    },
+    "Aurelia, Exemplar of Justice": {
+      "count": 3,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 153
+    },
+    "Assassin's Trophy": {
+      "count": 2,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 152
+    },
+    "Artful Takedown": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 151
+    },
+    "Wild Ceratok": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 150
+    },
+    "Wary Okapi": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 149
+    },
+    "Vigorspore Wurm": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 147
+    },
+    "Urban Utopia": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 146
+    },
+    "Sprouting Renewal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 145
+    },
+    "Siege Wurm": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 144
+    },
+    "Prey Upon": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 143
+    },
+    "Portcullis Vine": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 142
+    },
+    "Pelt Collector": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 141
+    },
+    "Pause for Reflection": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 140
+    },
+    "Nullhide Ferox": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 138
+    },
+    "Might of the Masses": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 137
+    },
+    "Kraul Harpooner": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 136
+    },
+    "Kraul Foragers": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 135
+    },
+    "Ironshell Beetle": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 134
+    },
+    "Hitchclaw Recluse": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 133
+    },
+    "Grappling Sundew": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 131
+    },
+    "Golgari Raiders": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 130
+    },
+    "Generous Stray": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 129
+    },
+    "District Guide": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 128
+    },
+    "Devkarin Dissident": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 127
+    },
+    "Crushing Canopy": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 126
+    },
+    "Bounty of Might": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 124
+    },
+    "Affectionate Indrik": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 121
+    },
+    "Wojek Bodyguard": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 120
+    },
+    "Torch Courier": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 119
+    },
+    "Sure Strike": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 161
+    },
+    "Rubblebelt Boar": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 114
+    },
+    "Ornery Goblin": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 112
+    },
+    "Maximize Velocity": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 111
+    },
+    "Maniacal Rage": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 110
+    },
+    "Legion Warboss": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 109
+    },
+    "Lava Coil": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 108
+    },
+    "Inescapable Blaze": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 107
+    },
+    "Hellkite Whelp": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 106
+    },
+    "Gravitic Punch": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 105
+    },
+    "Goblin Locksmith": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 104
+    },
+    "Goblin Banneret": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 102
+    },
+    "Fire Urchin": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 101
+    },
+    "Fearless Halberdier": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 100
+    },
+    "Erratic Cyclops": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 98
+    },
+    "Command the Storm": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 94
+    },
+    "Book Devourer": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 93
+    },
+    "Barging Sergeant": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 92
+    },
+    "Whispering Snitch": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 90
+    },
+    "Veiled Shade": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 88
+    },
+    "Undercity Necrolisk": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 87
+    },
+    "Spinal Centipede": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 86
+    },
+    "Severed Strands": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 85
+    },
+    "Price of Fame": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 83
+    },
+    "Plaguecrafter": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 82
+    },
+    "Pilfering Imp": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 81
+    },
+    "Never Happened": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 80
+    },
+    "Moodmark Painter": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 78
+    },
+    "Midnight Reaper": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 77
+    },
+    "Mephitic Vapors": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 76
+    },
+    "Lotleth Giant": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 74
+    },
+    "Kraul Swarm": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 73
+    },
+    "Hired Poisoner": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 72
+    },
+    "Gruesome Menagerie": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 71
+    },
+    "Douser of Lights": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 70
+    },
+    "Doom Whisperer": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 69
+    },
+    "Deadly Visit": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 68
+    },
+    "Creeping Chill": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 66
+    },
+    "Child of Night": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 65
+    },
+    "Burglar Rat": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 64
+    },
+    "Blood Operative": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 63
+    },
+    "Bartizan Bats": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 62
+    },
+    "Barrier of Bones": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 61
+    },
+    "Wishcoin Crab": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 60
+    },
+    "Watcher in the Mist": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 59
+    },
+    "Wall of Mist": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 58
+    },
+    "Vedalken Mesmerist": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 57
+    },
+    "Unexplained Disappearance": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 56
+    },
+    "Thoughtbound Phantasm": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 55
+    },
+    "Selective Snare": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 53
+    },
+    "Radical Idea": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 52
+    },
+    "Passwall Adept": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 50
+    },
+    "Nightveil Sprite": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 48
+    },
+    "Muse Drake": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 46
+    },
+    "Murmuring Mystic": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 45
+    },
+    "Mission Briefing": {
+      "count": 2,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 44
+    },
+    "Maximize Altitude": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 43
+    },
+    "Leapfrog": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 42
+    },
+    "Guild Summit": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 41
+    },
+    "Enhanced Surveillance": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 40
+    },
+    "Dream Eater": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Guilds of Ravnica",
+      "number": 38
+    },
+    "Disdainful Stroke": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 37
+    },
+    "Dimir Informant": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 36
+    },
+    "Dazzling Lights": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 34
+    },
+    "Citywatch Sphinx": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 33
+    },
+    "Chemister's Insight": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 32
+    },
+    "Venerated Loxodon": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 30
+    },
+    "Take Heart": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 28
+    },
+    "Sworn Companions": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 27
+    },
+    "Sunhome Stalwart": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 26
+    },
+    "Roc Charger": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 24
+    },
+    "Parhelion Patrol": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 22
+    },
+    "Loxodon Restorer": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 20
+    },
+    "Light of the Legion": {
+      "count": 2,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 19
+    },
+    "Ledev Guardian": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 18
+    },
+    "Intrusive Packbeast": {
+      "count": 1,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 17
+    },
+    "Hunted Witness": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 15
+    },
+    "Healer's Hawk": {
+      "count": 4,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 14
+    },
+    "Flight of Equenauts": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 11
+    },
+    "Demotion": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 9
+    },
+    "Dawn of Hope": {
+      "count": 1,
+      "type": "rare",
+      "set": "Guilds of Ravnica",
+      "number": 8
+    },
+    "Crush Contraband": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 7
+    },
+    "Conclave Tribunal": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Guilds of Ravnica",
+      "number": 6
+    },
+    "Candlelight Vigil": {
+      "count": 2,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 3
+    },
+    "Blade Instructor": {
+      "count": 3,
+      "type": "common",
+      "set": "Guilds of Ravnica",
+      "number": 1
+    },
+    "Immortal Phoenix": {
+      "count": 1,
+      "type": "rare",
+      "set": "M19 Gift Pack",
+      "number": "GP4"
+    },
+    "Vengeant Vampire": {
+      "count": 1,
+      "type": "rare",
+      "set": "M19 Gift Pack",
+      "number": "GP3"
+    },
+    "Angler Turtle": {
+      "count": 1,
+      "type": "rare",
+      "set": "M19 Gift Pack",
+      "number": "GP2"
+    },
+    "Angelic Guardian": {
+      "count": 1,
+      "type": "rare",
+      "set": "M19 Gift Pack",
+      "number": "GP1"
+    },
+    "Firesong and Sunspeaker": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 280
+    },
+    "Llanowar Elves": {
+      "count": 4,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 168
+    },
+    "Kargan Dragonrider": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 297
+    },
+    "Silverbeak Griffin": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 285
+    },
+    "Woodland Stream": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 260
+    },
+    "Tranquil Expanse": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 259
+    },
+    "Timber Gorge": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 258
+    },
+    "Submerged Boneyard": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 257
+    },
+    "Stone Quarry": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 256
+    },
+    "Reliquary Tower": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 254
+    },
+    "Meandering River": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 253
+    },
+    "Highland Lake": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 252
+    },
+    "Foul Orchard": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 251
+    },
+    "Forsaken Sanctuary": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 187
+    },
+    "Cinder Barrens": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 248
+    },
+    "Suspicious Bookcase": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 246
+    },
+    "Marauder's Axe": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 240
+    },
+    "Manalith": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 239
+    },
+    "Gearsmith Guardian": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 237
+    },
+    "Gargoyle Sentinel": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 236
+    },
+    "Fountain of Renewal": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 235
+    },
+    "Field Creeper": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 234
+    },
+    "Diamond Mare": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 231
+    },
+    "Arcane Encyclopedia": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 227
+    },
+    "Satyr Enchanter": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 223
+    },
+    "Poison-Tip Archer": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 220
+    },
+    "Nicol Bolas, the Ravager": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Core Set 2019",
+      "number": 218
+    },
+    "Heroic Reinforcements": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 217
+    },
+    "Enigma Drake": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 216
+    },
+    "Draconic Disciple": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 215
+    },
+    "Brawl-Bash Ogre": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 213
+    },
+    "Wall of Vines": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 210
+    },
+    "Vigilant Baloth": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 206
+    },
+    "Titanic Growth": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 205
+    },
+    "Thorn Lieutenant": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 203
+    },
+    "Runic Armasaur": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 200
+    },
+    "Recollect": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 197
+    },
+    "Prodigious Growth": {
+      "count": 3,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 194
+    },
+    "Pelakka Wurm": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 192
+    },
+    "Highland Game": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 188
+    },
+    "Goreclaw, Terror of Qal Sisma": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 186
+    },
+    "Gigantosaurus": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 185
+    },
+    "Elvish Rejuvenator": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 180
+    },
+    "Druid of the Cowl": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 177
+    },
+    "Druid of Horns": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 176
+    },
+    "Colossal Majesty": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 173
+    },
+    "Colossal Dreadmaw": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 172
+    },
+    "Centaur Courser": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 171
+    },
+    "Blanchwood Armor": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 169
+    },
+    "Volcanic Dragon": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 167
+    },
+    "Viashino Pyromancer": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 166
+    },
+    "Trumpet Blast": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 165
+    },
+    "Spit Flame": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 160
+    },
+    "Sparktongue Dragon": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 159
+    },
+    "Onakke Ogre": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 153
+    },
+    "Lathliss, Dragon Queen": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 149
+    },
+    "Inferno Hellion": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 148
+    },
+    "Hostile Minotaur": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 147
+    },
+    "Havoc Devils": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 146
+    },
+    "Guttersnipe": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 145
+    },
+    "Goblin Trashmaster": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 144
+    },
+    "Goblin Motivator": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 143
+    },
+    "Goblin Instigator": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 142
+    },
+    "Fiery Finish": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 140
+    },
+    "Dragon Egg": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 138
+    },
+    "Demanding Dragon": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 135
+    },
+    "Boggart Brute": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 131
+    },
+    "Banefire": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 130
+    },
+    "Walking Corpse": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 126
+    },
+    "Vampire Sovereign": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 125
+    },
+    "Vampire Neonate": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 124
+    },
+    "Strangling Spores": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 122
+    },
+    "Sovereign's Bite": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 120
+    },
+    "Skymarch Bloodletter": {
+      "count": 4,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 124
+    },
+    "Rise from the Grave": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 117
+    },
+    "Reassembling Skeleton": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 116
+    },
+    "Ravenous Harpy": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 115
+    },
+    "Open the Graves": {
+      "count": 3,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 112
+    },
+    "Nightmare's Thirst": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 111
+    },
+    "Macabre Waltz": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 108
+    },
+    "Liliana's Contract": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 107
+    },
+    "Lich's Caress": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 105
+    },
+    "Isareth the Awakener": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 104
+    },
+    "Infernal Scarring": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 103
+    },
+    "Infectious Horror": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 101
+    },
+    "Hired Blade": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 100
+    },
+    "Gravedigger": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 98
+    },
+    "Epicure of Blood": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 95
+    },
+    "Doomed Dissenter": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 93
+    },
+    "Diregraf Ghoul": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 92
+    },
+    "Demon of Catastrophes": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 91
+    },
+    "Death Baron": {
+      "count": 2,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 90
+    },
+    "Blood Divination": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 86
+    },
+    "Windreader Sphinx": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 84
+    },
+    "Tezzeret, Artifice Master": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Core Set 2019",
+      "number": 79
+    },
+    "Surge Mare": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 77
+    },
+    "Sleep": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 74
+    },
+    "Sift": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 72
+    },
+    "Scholar of Stars": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 71
+    },
+    "Salvager of Secrets": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 70
+    },
+    "Sai, Master Thopterist": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 69
+    },
+    "One with the Machine": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 66
+    },
+    "Mystic Archaeologist": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 63
+    },
+    "Gearsmith Prodigy": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 57
+    },
+    "Frilled Sea Serpent": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 56
+    },
+    "Exclusion Mage": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 55
+    },
+    "Disperse": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 50
+    },
+    "Departed Deckhand": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 49
+    },
+    "Cancel": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 48
+    },
+    "Aviation Pioneer": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 46
+    },
+    "Aven Wind Mage": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 45
+    },
+    "Aether Tunnel": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 43
+    },
+    "Take Vengeance": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 40
+    },
+    "Star-Crowned Stag": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 38
+    },
+    "Revitalize": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 35
+    },
+    "Resplendent Angel": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Core Set 2019",
+      "number": 34
+    },
+    "Pegasus Courser": {
+      "count": 2,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 29
+    },
+    "Oreskos Swiftclaw": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 31
+    },
+    "Novice Knight": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 30
+    },
+    "Militia Bugler": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 29
+    },
+    "Mentor of the Meek": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 27
+    },
+    "Make a Stand": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 26
+    },
+    "Luminous Bonds": {
+      "count": 4,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 12
+    },
+    "Loxodon Line Breaker": {
+      "count": 3,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 24
+    },
+    "Leonin Warleader": {
+      "count": 3,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 23
+    },
+    "Leonin Vanguard": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 22
+    },
+    "Lena, Selfless Champion": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 21
+    },
+    "Knightly Valor": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 20
+    },
+    "Knight's Pledge": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 19
+    },
+    "Invoke the Divine": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 16
+    },
+    "Hieromancer's Cage": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 14
+    },
+    "Herald of Faith": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 13
+    },
+    "Dwarven Priest": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 11
+    },
+    "Daybreak Chaplain": {
+      "count": 4,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 10
+    },
+    "Cavalry Drillmaster": {
+      "count": 2,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 8
+    },
+    "Angel of the Dawn": {
+      "count": 1,
+      "type": "common",
+      "set": "Core Set 2019",
+      "number": 7
+    },
+    "Ajani's Welcome": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Core Set 2019",
+      "number": 6
+    },
+    "Ajani's Last Stand": {
+      "count": 1,
+      "type": "rare",
+      "set": "Core Set 2019",
+      "number": 4
+    },
+    "Pyromantic Pilgrim": {
+      "count": 3,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 278
+    },
+    "Woodland Cemetery": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 248
+    },
+    "Sulfur Falls": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 247
+    },
+    "Memorial to Glory": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 244
+    },
+    "Isolated Chapel": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 241
+    },
+    "Hinterland Harbor": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 240
+    },
+    "Clifftop Retreat": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 239
+    },
+    "Jhoira's Familiar": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 220
+    },
+    "Gilded Lotus": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 215
+    },
+    "Slimefoot, the Stowaway": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 205
+    },
+    "Raff Capashen, Ship's Mage": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 202
+    },
+    "Garna, the Bloodflame": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 194
+    },
+    "Yavimaya Sapherd": {
+      "count": 3,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 189
+    },
+    "Wild Onslaught": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 188
+    },
+    "Verdant Force": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 187
+    },
+    "Steel Leaf Champion": {
+      "count": 3,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 182
+    },
+    "Spore Swarm": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 180
+    },
+    "Song of Freyalise": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 179
+    },
+    "Saproling Migration": {
+      "count": 3,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 178
+    },
+    "Arbor Armament": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 155
+    },
+    "Siege-Gang Commander": {
+      "count": 2,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 143
+    },
+    "Shivan Fire": {
+      "count": 3,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 142
+    },
+    "Keldon Overseer": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 134
+    },
+    "Ghitu Lavarunner": {
+      "count": 3,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 127
+    },
+    "Ghitu Chronicler": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 125
+    },
+    "Fight with Fire": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 119
+    },
+    "Yargle, Glutton of Urborg": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 113
+    },
+    "Whisper, Blood Liturgist": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 111
+    },
+    "Vicious Offering": {
+      "count": 3,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 110
+    },
+    "Torgaar, Famine Incarnate": {
+      "count": 2,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 108
+    },
+    "Thallid Omnivore": {
+      "count": 2,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 106
+    },
+    "Rite of Belzenlok": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 102
+    },
+    "Fungal Infection": {
+      "count": 3,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 94
+    },
+    "Drudge Sentinel": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 89
+    },
+    "Demonlord Belzenlok": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Dominaria",
+      "number": 86
+    },
+    "Deathbloom Thallid": {
+      "count": 4,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 84
+    },
+    "Zahid, Djinn of the Lamp": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 76
+    },
+    "Wizard's Retort": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 75
+    },
+    "Vodalian Arcanist": {
+      "count": 3,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 73
+    },
+    "Tolarian Scholar": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 71
+    },
+    "Tempest Djinn": {
+      "count": 4,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 68
+    },
+    "Opt": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 65
+    },
+    "Merfolk Trickster": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 56
+    },
+    "Divination": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 52
+    },
+    "Cold-Water Snapper": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 48
+    },
+    "Blink of an Eye": {
+      "count": 2,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 46
+    },
+    "Triumph of Gerrard": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 38
+    },
+    "Shalai, Voice of Plenty": {
+      "count": 1,
+      "type": "rare",
+      "set": "Dominaria",
+      "number": 35
+    },
+    "Seal Away": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 31
+    },
+    "On Serra's Wings": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 28
+    },
+    "Mesa Unicorn": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 27
+    },
+    "History of Benalia": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Dominaria",
+      "number": 21
+    },
+    "Healing Grace": {
+      "count": 1,
+      "type": "common",
+      "set": "Dominaria",
+      "number": 20
+    },
+    "Danitha Capashen, Paragon": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Dominaria",
+      "number": 12
+    },
+    "Swab Goblin": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 203
+    },
+    "Strider Harness": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 183
+    },
+    "Siegehorn Ceratops": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 171
+    },
+    "Merfolk Mistbinder": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 164
+    },
+    "Legion Lieutenant": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 163
+    },
+    "Kumena, Tyrant of Orazca": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Rivals of Ixalan",
+      "number": 162
+    },
+    "Jungle Creeper": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 161
+    },
+    "Azor, the Lawbringer": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Rivals of Ixalan",
+      "number": 154
+    },
+    "Tendershoot Dryad": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 147
+    },
+    "Path of Discovery": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 142
+    },
+    "Naturalize": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 139
+    },
+    "Knight of the Stampede": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 138
+    },
+    "Jungleborn Pioneer": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 137
+    },
+    "Jadelight Ranger": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 136
+    },
+    "Jade Bearer": {
+      "count": 3,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 134
+    },
+    "Ghalta, Primal Hunger": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 130
+    },
+    "Enter the Unknown": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 128
+    },
+    "Deeproot Elite": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 127
+    },
+    "Silverclad Ferocidons": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 115
+    },
+    "Shatter": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 114
+    },
+    "Rekindling Phoenix": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Rivals of Ixalan",
+      "number": 111
+    },
+    "Pirate's Pillage": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 109
+    },
+    "Needletooth Raptor": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 107
+    },
+    "Mutiny": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 106
+    },
+    "Frilled Deathspitter": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 104
+    },
+    "Fanatical Firebrand": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 101
+    },
+    "Etali, Primal Storm": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 100
+    },
+    "Charging Tuskodon": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 97
+    },
+    "Brazen Freebooter": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 95
+    },
+    "Voracious Vampire": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 91
+    },
+    "Twilight Prophet": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Rivals of Ixalan",
+      "number": 88
+    },
+    "Tetzimoc, Primal Death": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 86
+    },
+    "Recover": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 84
+    },
+    "Ravenous Chupacabra": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 82
+    },
+    "Moment of Craving": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 79
+    },
+    "Grasping Scoundrel": {
+      "count": 3,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 74
+    },
+    "Forerunner of the Coalition": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 72
+    },
+    "Fathom Fleet Boarder": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 71
+    },
+    "Dusk Legion Zealot": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 70
+    },
+    "Dusk Charger": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 69
+    },
+    "Dire Fleet Poisoner": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 68
+    },
+    "Dark Inquiry": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 65
+    },
+    "Champion of Dusk": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 64
+    },
+    "Waterknot": {
+      "count": 4,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 61
+    },
+    "Warkite Marauder": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 60
+    },
+    "Spire Winder": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 57
+    },
+    "Soul of the Rapids": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 56
+    },
+    "Siren Reaver": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 54
+    },
+    "Silvergill Adept": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 53
+    },
+    "Seafloor Oracle": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 51
+    },
+    "Nezahal, Primal Tide": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 45
+    },
+    "Mist-Cloaked Herald": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 43
+    },
+    "Kitesail Corsair": {
+      "count": 4,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 41
+    },
+    "Hornswoggle": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 39
+    },
+    "Deadeye Rig-Hauler": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 36
+    },
+    "Curious Obsession": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Rivals of Ixalan",
+      "number": 35
+    },
+    "Zetalpa, Primal Dawn": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 30
+    },
+    "Squire's Devotion": {
+      "count": 1,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 25
+    },
+    "Paladin of Atonement": {
+      "count": 1,
+      "type": "rare",
+      "set": "Rivals of Ixalan",
+      "number": 16
+    },
+    "Moment of Triumph": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 15
+    },
+    "Martyr of Dusk": {
+      "count": 2,
+      "type": "common",
+      "set": "Rivals of Ixalan",
+      "number": 14
+    },
+    "Sunpetal Grove": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 257
+    },
+    "Rootbound Crag": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 256
+    },
+    "Glacial Fortress": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 255
+    },
+    "Drowned Catacomb": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 253
+    },
+    "Dragonskull Summit": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 252
+    },
+    "Gilded Sentinel": {
+      "count": 2,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 239
+    },
+    "Hostage Taker": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 223
+    },
+    "Call to the Feast": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 219
+    },
+    "Verdant Sun's Avatar": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 213
+    },
+    "Verdant Rebirth": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 212
+    },
+    "River Heralds' Boon": {
+      "count": 3,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 204
+    },
+    "Kumena's Speaker": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 196
+    },
+    "Jungle Delver": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 195
+    },
+    "Deeproot Champion": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 185
+    },
+    "Carnage Tyrant": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ixalan",
+      "number": 179
+    },
+    "Rowdy Crew": {
+      "count": 1,
+      "type": "mythic",
+      "set": "Ixalan",
+      "number": 159
+    },
+    "Repeating Barrage": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 156
+    },
+    "Raptor Hatchling": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 155
+    },
+    "Lightning Strike": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 149
+    },
+    "Hijack": {
+      "count": 2,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 148
+    },
+    "Charging Monstrosaur": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 138
+    },
+    "Captivating Crew": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 137
+    },
+    "Burning Sun's Avatar": {
+      "count": 2,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 135
+    },
+    "Brazen Buccaneers": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 134
+    },
+    "Vraska's Contempt": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 129
+    },
+    "Skulduggery": {
+      "count": 2,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 123
+    },
+    "Seekers' Squire": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 121
+    },
+    "Sanctum Seeker": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 120
+    },
+    "Ruin Raider": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 118
+    },
+    "Queen's Agent": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 114
+    },
+    "Kitesail Freebooter": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 110
+    },
+    "Dire Fleet Interloper": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 103
+    },
+    "Desperate Castaways": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 101
+    },
+    "Costly Plunder": {
+      "count": 2,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 96
+    },
+    "Blight Keeper": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 92
+    },
+    "Watertrap Weaver": {
+      "count": 3,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 87
+    },
+    "Tempest Caller": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 86
+    },
+    "Storm Sculptor": {
+      "count": 2,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 85
+    },
+    "Storm Fleet Spy": {
+      "count": 1,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 84
+    },
+    "Spell Pierce": {
+      "count": 3,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 81
+    },
+    "Siren Stormtamer": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 79
+    },
+    "Sailor of Means": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 73
+    },
+    "River's Rebuke": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 71
+    },
+    "River Sneak": {
+      "count": 3,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 70
+    },
+    "One With the Wind": {
+      "count": 3,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 64
+    },
+    "Herald of Secret Streams": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 59
+    },
+    "Favorable Winds": {
+      "count": 4,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 56
+    },
+    "Entrancing Melody": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 55
+    },
+    "Dreamcaller Siren": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 54
+    },
+    "Dive Down": {
+      "count": 3,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 53
+    },
+    "Chart a Course": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 48
+    },
+    "Territorial Hammerskull": {
+      "count": 2,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 41
+    },
+    "Steadfast Armasaur": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 39
+    },
+    "Settle the Wreckage": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 34
+    },
+    "Raptor Companion": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 31
+    },
+    "Paladin of the Bloodstained": {
+      "count": 2,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 25
+    },
+    "Kinjalli's Sunwing": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 19
+    },
+    "Kinjalli's Caller": {
+      "count": 1,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 18
+    },
+    "Inspiring Cleric": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 16
+    },
+    "Imperial Aerosaur": {
+      "count": 2,
+      "type": "uncommon",
+      "set": "Ixalan",
+      "number": 14
+    },
+    "Goring Ceratops": {
+      "count": 1,
+      "type": "rare",
+      "set": "Ixalan",
+      "number": 13
+    },
+    "Bishop's Soldier": {
+      "count": 3,
+      "type": "common",
+      "set": "Ixalan",
+      "number": 6
+    }
+  }
+}

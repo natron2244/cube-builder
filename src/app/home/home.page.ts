@@ -21,6 +21,7 @@ export class HomePage {
       CardStatus.Craftable
     );
 
+    //this.availableCards = this.cardService.getCratCardForUser("Alex");
     // this.card = this.availableCards?.[0];
     // this.cardName = this?.card?.name;
 

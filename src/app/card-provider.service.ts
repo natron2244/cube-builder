@@ -4,9 +4,11 @@ import { CardProvider } from "./interfaces";
 // Generated with https://csvjson.com/csv2json as hash
 import * as NathansCards from "./player-data/nathan.json";
 import * as AlexsCards from "./player-data/alex.json";
-// import * as OtherPlayer from "./player-data/example-player.json";
-// import * as Dustin from "./player-data/dustin.json";
+import * as DustinCards from "./player-data/dustin.json";
+import * as DonnyCards from "./player-data/donny.json";
 
+// For CVS to JSON
+// "name","count","type","set","number"
 @Injectable({
   providedIn: "root",
 })
@@ -28,14 +30,14 @@ export class CardProviderService {
         name: "Alex",
         cards: this.cleanCardData(AlexsCards.cards),
       },
-      // {
-      //   name: "Other",
-      //   cards: OtherPlayer.cards,
-      // },
-      // {
-      //   name: "Dustin",
-      //   cards: Dustin.cards,
-      // },
+      {
+        name: "Donny",
+        cards: this.cleanCardData(DonnyCards.cards),
+      },
+      {
+        name: "Dustin",
+        cards: this.cleanCardData(DustinCards.cards),
+      },
     ];
   }
 

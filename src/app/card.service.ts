@@ -6,8 +6,12 @@ import { CardProviderService } from "./card-provider.service";
   providedIn: "root",
 })
 export class CardService {
-  public constructor(private cardProvider: CardProviderService) {}
-  public getCardEntries(): CardEntry[] {
+  private cardEntries: CardEntry[] = [];
+
+  public constructor(private cardProvider: CardProviderService) {
+    this.cardEntries = this.generateCardEntries();
+  }
+  private generateCardEntries(): CardEntry[] {
     const allUniqueCards = this.cardProvider.getAllUniqueCards();
     const cardProviders = this.cardProvider.getCardProviders();
     const cardEntries: CardEntry[] = allUniqueCards.map((cardName) => {
@@ -30,7 +34,15 @@ export class CardService {
   }
 
   public getCardsWithStatus(status: CardStatus): CardEntry[] {
-    return this.getCardEntries().filter((card) => card.cardStatus === status);
+    return this.cardEntries.filter((card) => card.cardStatus === status);
+  }
+
+  public getCratCardForUser(user: string): CardEntry[] {
+    return this.cardEntries.filter(
+      (card) =>
+        card.cardStatus === CardStatus.Craftable &&
+        card.missingPlayers.includes(user)
+    );
   }
 
   private getCardStatus(count, numberOfPlayers): CardStatus {
