@@ -18,11 +18,11 @@ export class CardService {
       let count = 0;
       const missingPlayers: string[] = [];
       cardProviders.forEach(({ name, cards }) => {
-        const hasCard = !!cards[cardName];
-        if (!hasCard) {
+        const playerCard = cards.find((card) => card.name === cardName);
+        if (!playerCard) {
           missingPlayers.push(name);
         }
-        count = hasCard ? count + 1 : count;
+        count = !playerCard ? count + playerCard.count : count;
       });
       return {
         name: cardName,

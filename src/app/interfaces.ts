@@ -9,7 +9,15 @@ export interface CardEntry {
   missingPlayers?: string[];
 }
 
+export interface Card {
+  name: string;
+  count: number;
+  type: string;
+  set: string;
+  number: number;
+}
+
 export interface CardProvider {
   name: string;
-  cards: any;
+  cards: Card[];
 }
