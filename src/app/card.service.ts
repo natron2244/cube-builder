@@ -22,12 +22,13 @@ export class CardService {
         if (!playerCard) {
           missingPlayers.push(name);
         }
-        count = !playerCard ? count + playerCard.count : count;
+        count =
+          playerCard && playerCard.count < count ? playerCard.count : count;
       });
       return {
         name: cardName,
         missingPlayers,
-        cardStatus: this.getCardStatus(count, cardProviders.length),
+        cardStatus: this.getCardStatus(missingPlayers.length),
       };
     });
     return cardEntries;
@@ -45,10 +46,10 @@ export class CardService {
     );
   }
 
-  private getCardStatus(count, numberOfPlayers): CardStatus {
-    return count >= numberOfPlayers
+  private getCardStatus(numberOfMissing): CardStatus {
+    return numberOfMissing === 0
       ? CardStatus.Available
-      : count >= numberOfPlayers - 1
+      : numberOfMissing === 1
       ? CardStatus.Craftable
       : CardStatus.Unavailable;
   }

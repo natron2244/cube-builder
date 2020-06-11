@@ -20,10 +20,17 @@ import * as DonnyCards from "./new-player-data/donnys-cards.json";
 })
 export class CardProviderService {
   public getAllUniqueCards(): string[] {
-    let cardNames = [];
+    let cardNames: string[] = [];
     this.getCardProviders().forEach(({ cards }) => {
-      const newNames = cards.map((card) => card.name);
-      cardNames = cardNames.concat(newNames);
+      if (cardNames.length === 0) {
+        cardNames = cardNames.concat(cards.map((card) => card.name));
+      } else {
+        cards.forEach((card) => {
+          if (!cardNames.includes(card.name)) {
+            cardNames.push(card.name);
+          }
+        });
+      }
     });
     return cardNames;
   }
